@@ -1,5 +1,14 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+# Mentored React Rampup 
+## Goal
+Mentored developers should run through the shopping portal code with their PMs and go over React mechanics and how it differs from the HTML/CSS/JS combo they've seen already
+
+## TODOs
+Create the item boxes for items, utilizing state, components, and generally good React programming practice
+<br/><br/>
+
+# REACT INFORMATION 
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
